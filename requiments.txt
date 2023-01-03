@@ -1,0 +1,20 @@
+torch
+torchvision>=0.5
+opencv-python-headless<=4.5.4.60
+scipy
+numpy
+Pillow
+scikit-image
+python-bidi
+PyYAML
+Shapely
+pyclipper
+ninja
+nvidia-cudnn-cu11        ==8.5.0.96
+opencv-python            ==4.6.0.66
+opencv-python-headless   ==4.5.4.60
+pandas                   ==1.5.1
+PyQt5                    ==5.14.1
+PyQt5-sip                ==12.9.1
+torch                    ==1.13.1
+torchvision              ==0.14.1

@@ -1,0 +1,115 @@
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/Diplom_project/data/Dataset/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/Diplom_project/data/Dataset/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2668
+num total samples of : 2668 x 1.0 (total_data_usage_ratio) = 2668
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/Diplom_project/data/Dataset/data/val	 dataset: /
+sub-directory:	/.	 num samples: 184
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2673
+num total samples of : 2673 x 1.0 (total_data_usage_ratio) = 2673
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/val	 dataset: /
+sub-directory:	/.	 num samples: 184
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2673
+num total samples of : 2673 x 1.0 (total_data_usage_ratio) = 2673
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/val	 dataset: /
+sub-directory:	/.	 num samples: 184
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2673
+num total samples of : 2673 x 1.0 (total_data_usage_ratio) = 2673
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/val	 dataset: /
+sub-directory:	/.	 num samples: 184
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2673
+num total samples of : 2673 x 1.0 (total_data_usage_ratio) = 2673
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/val	 dataset: /
+sub-directory:	/.	 num samples: 184
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2673
+num total samples of : 2673 x 1.0 (total_data_usage_ratio) = 2673
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/val	 dataset: /
+sub-directory:	/.	 num samples: 133
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: /home/mikhail/it-academy/github/Diplom_project/data/train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/train	 dataset: 
+sub-directory:	/.	 num samples: 2673
+num total samples of : 2673 x 1.0 (total_data_usage_ratio) = 2673
+num samples of  per batch: 8 x 1.0 (batch_ratio) = 8
+--------------------------------------------------------------------------------
+Total_batch_size: 8 = 8
+--------------------------------------------------------------------------------
+dataset_root:    /home/mikhail/it-academy/github/Diplom_project/data/val	 dataset: /
+sub-directory:	/.	 num samples: 133
+--------------------------------------------------------------------------------
